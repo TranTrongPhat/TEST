@@ -8,3 +8,9 @@
 Run sever
 ```bash
 $ npm run dev
+```
+# NPM Install
+1. Intall 
+2. Intall
+3. Intall
+4. Intall
