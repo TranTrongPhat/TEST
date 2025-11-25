@@ -6,4 +6,5 @@
 
 # Running App
 ```bash
+Run sever
 $ npm run dev
