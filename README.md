@@ -5,6 +5,6 @@
 </p>
 
 # Running App
-```bash
 Run sever
+```bash
 $ npm run dev
