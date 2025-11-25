@@ -1,4 +1,4 @@
 # MERN
-<p align ="center">
-    <img src="./asset/mern.png" width="60" alt="MongoDB"/>          
+<p align="center">
+    <img src="./asset/mern.png" width="200px" height="200px" alt="MongoDB"/>
 </p>
